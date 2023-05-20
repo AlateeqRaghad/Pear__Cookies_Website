@@ -8,10 +8,10 @@ Pearl Cookies Website
 Pearl Cookies is an online cookie shop where you can explore a variety of delicious homemade cookies.
 
 ### Files used
-style.css
-index.html
-main.js
+style.css<br>
+index.html<br>
+main.js<br>
 
 ### Contact
-For any inquiries or feedback, please contact us at [+966 50 662 4210]
+For any inquiries or feedback, please contact us at [+966 50 662 4210]<br>
 We also have a website where you can learn more about Pearl Cookies: www.pearlcookies.com
