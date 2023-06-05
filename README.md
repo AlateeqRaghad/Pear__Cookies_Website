@@ -24,6 +24,11 @@ Pearl Cookies is an online cookie shop where you can explore a variety of delici
 1. style.css<br>
 2. index.html<br>
 3. main.js<br>
+4. signin.html<br>
+5. login.html<br>
+6. login.js<br>
+7. signup.js<br>
+8. index.js<br>
 
 ---
  ### Technologies Used
