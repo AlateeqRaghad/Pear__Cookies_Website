@@ -28,7 +28,6 @@ Pearl Cookies is an online cookie shop where you can explore a variety of delici
 ---
  ### Technologies Used
 * HTML, CSS, JavaScript
-* React.js
 * Node.js
 * Express.js
 * MongoDB
